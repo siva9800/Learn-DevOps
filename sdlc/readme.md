@@ -335,22 +335,4 @@ Feedback improves next release
 🚀 **Once SDLC is clear, DevOps tools become easy to understand and apply.**
 ```
 
----
 
-## 👨‍🏫 Trainer Notes (For You)
-
-* This document can be taught in **60–90 minutes**
-* Use **diagrams on board** for models
-* Emphasize **Agile + DevOps**
-* Waterfall explanation helps interview clarity
-
----
-
-If you want next, I can:
-
-* Create **SDLC interview questions**
-* Create **Agile vs DevOps README**
-* Create **Git role in SDLC**
-* Convert this into **presentation slides**
-
-Just tell me 👍
